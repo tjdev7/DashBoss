@@ -11,7 +11,7 @@ import {
     ResponsiveContainer,
 } from 'recharts'
 
-import { VictoryBar, VictoryAxis, VictoryChart, VictoryTheme } from 'victory';
+import { VictoryBar, VictoryAxis, VictoryChart, VictoryTheme } from 'victory'
 
 import '../App.css'
 
@@ -48,7 +48,8 @@ const data = [
 export default class BarData extends React.Component {
     render() {
         return (
-            <div>{/*
+            <div>
+                {/*
                 <h1>Country statistics</h1>
                 <ResponsiveContainer>
                     <Row className="DataMetricsStyle">

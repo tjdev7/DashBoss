@@ -7,8 +7,6 @@ import {
     AiFillRead,
 } from 'react-icons/ai'
 
-// import { BsFillPinMapFill } from 'react-icons/bs'
-
 import { FaLifeRing } from 'react-icons/fa'
 
 import React from 'react'
